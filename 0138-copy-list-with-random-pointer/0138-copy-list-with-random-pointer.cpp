@@ -27,8 +27,33 @@ public:
         return newHead;
     }
     Node* copyRandomList(Node* head) {
-        unordered_map<Node*,Node*>mp;
-        return helper(head,mp);
-        
+        //unordered_map<Node*,Node*>mp;
+        //return helper(head,mp);for O(n)space complexity
+        if(!head)return NULL;
+        Node*it=head;
+        while(it){
+            Node*CloneNode=new Node(it->val);
+            CloneNode->next=it->next;
+            it->next=CloneNode;
+            it=it->next->next;
+        }
+        it=head;
+        while(it){
+            Node* CloneNode=it->next;
+            CloneNode->random=it->random?it->random->next:NULL;
+            it=it->next->next;
+        }
+        //Step-3:Detch
+        it=head;
+        Node*CloneHead=it->next;
+        while(it){
+            Node* CloneNode=it->next;
+            it->next=it->next->next;
+            if(CloneNode->next){
+                CloneNode->next=CloneNode->next->next;
+            }
+            it=it->next;
+        } 
+        return CloneHead;
     }
 };
