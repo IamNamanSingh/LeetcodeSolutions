@@ -7,12 +7,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/IamNamanSingh/LeetcodeSolutions/tree/master/0032-longest-valid-parentheses) |
 | [0084-largest-rectangle-in-histogram](https://github.com/IamNamanSingh/LeetcodeSolutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0155-min-stack](https://github.com/IamNamanSingh/LeetcodeSolutions/tree/master/0155-min-stack) |
+| [0901-online-stock-span](https://github.com/IamNamanSingh/LeetcodeSolutions/tree/master/0901-online-stock-span) |
 | [1019-next-greater-node-in-linked-list](https://github.com/IamNamanSingh/LeetcodeSolutions/tree/master/1019-next-greater-node-in-linked-list) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/IamNamanSingh/LeetcodeSolutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Design
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/IamNamanSingh/LeetcodeSolutions/tree/master/0155-min-stack) |
+| [0901-online-stock-span](https://github.com/IamNamanSingh/LeetcodeSolutions/tree/master/0901-online-stock-span) |
 ## String
 |  |
 | ------- |
@@ -35,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/IamNamanSingh/LeetcodeSolutions/tree/master/0084-largest-rectangle-in-histogram) |
+| [0901-online-stock-span](https://github.com/IamNamanSingh/LeetcodeSolutions/tree/master/0901-online-stock-span) |
 | [1019-next-greater-node-in-linked-list](https://github.com/IamNamanSingh/LeetcodeSolutions/tree/master/1019-next-greater-node-in-linked-list) |
 ## Range Minimum/Maximum Query
 |  |
@@ -44,4 +47,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1019-next-greater-node-in-linked-list](https://github.com/IamNamanSingh/LeetcodeSolutions/tree/master/1019-next-greater-node-in-linked-list) |
+## Data Stream
+|  |
+| ------- |
+| [0901-online-stock-span](https://github.com/IamNamanSingh/LeetcodeSolutions/tree/master/0901-online-stock-span) |
 <!---LeetCode Topics End-->
