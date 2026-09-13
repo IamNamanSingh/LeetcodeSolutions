@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/IamNamanSingh/LeetcodeSolutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/IamNamanSingh/LeetcodeSolutions/tree/master/0085-maximal-rectangle) |
+| [0134-gas-station](https://github.com/IamNamanSingh/LeetcodeSolutions/tree/master/0134-gas-station) |
 | [0853-car-fleet](https://github.com/IamNamanSingh/LeetcodeSolutions/tree/master/0853-car-fleet) |
 | [1019-next-greater-node-in-linked-list](https://github.com/IamNamanSingh/LeetcodeSolutions/tree/master/1019-next-greater-node-in-linked-list) |
 | [1776-car-fleet-ii](https://github.com/IamNamanSingh/LeetcodeSolutions/tree/master/1776-car-fleet-ii) |
@@ -87,4 +88,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1776-car-fleet-ii](https://github.com/IamNamanSingh/LeetcodeSolutions/tree/master/1776-car-fleet-ii) |
+## Greedy
+|  |
+| ------- |
+| [0134-gas-station](https://github.com/IamNamanSingh/LeetcodeSolutions/tree/master/0134-gas-station) |
 <!---LeetCode Topics End-->
