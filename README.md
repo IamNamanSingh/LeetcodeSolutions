@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/IamNamanSingh/LeetcodeSolutions/tree/master/0032-longest-valid-parentheses) |
 | [0071-simplify-path](https://github.com/IamNamanSingh/LeetcodeSolutions/tree/master/0071-simplify-path) |
 | [0394-decode-string](https://github.com/IamNamanSingh/LeetcodeSolutions/tree/master/0394-decode-string) |
+| [0709-to-lower-case](https://github.com/IamNamanSingh/LeetcodeSolutions/tree/master/0709-to-lower-case) |
 | [1003-check-if-word-is-valid-after-substitutions](https://github.com/IamNamanSingh/LeetcodeSolutions/tree/master/1003-check-if-word-is-valid-after-substitutions) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/IamNamanSingh/LeetcodeSolutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Dynamic Programming
