@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0853-car-fleet](https://github.com/IamNamanSingh/LeetcodeSolutions/tree/master/0853-car-fleet) |
 | [1019-next-greater-node-in-linked-list](https://github.com/IamNamanSingh/LeetcodeSolutions/tree/master/1019-next-greater-node-in-linked-list) |
 | [1776-car-fleet-ii](https://github.com/IamNamanSingh/LeetcodeSolutions/tree/master/1776-car-fleet-ii) |
+| [1991-find-the-middle-index-in-array](https://github.com/IamNamanSingh/LeetcodeSolutions/tree/master/1991-find-the-middle-index-in-array) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/IamNamanSingh/LeetcodeSolutions/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 ## Monotonic Stack
 |  |
@@ -213,4 +214,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0441-arranging-coins](https://github.com/IamNamanSingh/LeetcodeSolutions/tree/master/0441-arranging-coins) |
+## Prefix Sum
+|  |
+| ------- |
+| [1991-find-the-middle-index-in-array](https://github.com/IamNamanSingh/LeetcodeSolutions/tree/master/1991-find-the-middle-index-in-array) |
 <!---LeetCode Topics End-->
