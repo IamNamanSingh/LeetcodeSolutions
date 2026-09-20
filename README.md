@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0441-arranging-coins](https://github.com/IamNamanSingh/LeetcodeSolutions/tree/master/0441-arranging-coins) |
 | [1776-car-fleet-ii](https://github.com/IamNamanSingh/LeetcodeSolutions/tree/master/1776-car-fleet-ii) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/IamNamanSingh/LeetcodeSolutions/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 ## Heap (Priority Queue)
@@ -208,4 +209,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/IamNamanSingh/LeetcodeSolutions/tree/master/0169-majority-element) |
+## Binary Search
+|  |
+| ------- |
+| [0441-arranging-coins](https://github.com/IamNamanSingh/LeetcodeSolutions/tree/master/0441-arranging-coins) |
 <!---LeetCode Topics End-->
