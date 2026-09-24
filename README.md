@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/IamNamanSingh/LeetcodeSolutions/tree/master/0724-find-pivot-index) |
 | [0853-car-fleet](https://github.com/IamNamanSingh/LeetcodeSolutions/tree/master/0853-car-fleet) |
 | [1019-next-greater-node-in-linked-list](https://github.com/IamNamanSingh/LeetcodeSolutions/tree/master/1019-next-greater-node-in-linked-list) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/IamNamanSingh/LeetcodeSolutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1776-car-fleet-ii](https://github.com/IamNamanSingh/LeetcodeSolutions/tree/master/1776-car-fleet-ii) |
 | [1991-find-the-middle-index-in-array](https://github.com/IamNamanSingh/LeetcodeSolutions/tree/master/1991-find-the-middle-index-in-array) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/IamNamanSingh/LeetcodeSolutions/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0506-relative-ranks](https://github.com/IamNamanSingh/LeetcodeSolutions/tree/master/0506-relative-ranks) |
 | [0853-car-fleet](https://github.com/IamNamanSingh/LeetcodeSolutions/tree/master/0853-car-fleet) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/IamNamanSingh/LeetcodeSolutions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/IamNamanSingh/LeetcodeSolutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 ## Math
 |  |
 | ------- |
@@ -216,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/IamNamanSingh/LeetcodeSolutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/IamNamanSingh/LeetcodeSolutions/tree/master/0027-remove-element) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/IamNamanSingh/LeetcodeSolutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/IamNamanSingh/LeetcodeSolutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 ## Hash Table
 |  |
 | ------- |
@@ -239,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0441-arranging-coins](https://github.com/IamNamanSingh/LeetcodeSolutions/tree/master/0441-arranging-coins) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/IamNamanSingh/LeetcodeSolutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 ## Prefix Sum
 |  |
 | ------- |
