@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1019-next-greater-node-in-linked-list](https://github.com/IamNamanSingh/LeetcodeSolutions/tree/master/1019-next-greater-node-in-linked-list) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/IamNamanSingh/LeetcodeSolutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1776-car-fleet-ii](https://github.com/IamNamanSingh/LeetcodeSolutions/tree/master/1776-car-fleet-ii) |
+| [1962-remove-stones-to-minimize-the-total](https://github.com/IamNamanSingh/LeetcodeSolutions/tree/master/1962-remove-stones-to-minimize-the-total) |
 | [1991-find-the-middle-index-in-array](https://github.com/IamNamanSingh/LeetcodeSolutions/tree/master/1991-find-the-middle-index-in-array) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/IamNamanSingh/LeetcodeSolutions/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 ## Monotonic Stack
@@ -120,11 +121,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0506-relative-ranks](https://github.com/IamNamanSingh/LeetcodeSolutions/tree/master/0506-relative-ranks) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/IamNamanSingh/LeetcodeSolutions/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [1776-car-fleet-ii](https://github.com/IamNamanSingh/LeetcodeSolutions/tree/master/1776-car-fleet-ii) |
+| [1962-remove-stones-to-minimize-the-total](https://github.com/IamNamanSingh/LeetcodeSolutions/tree/master/1962-remove-stones-to-minimize-the-total) |
 ## Greedy
 |  |
 | ------- |
 | [0134-gas-station](https://github.com/IamNamanSingh/LeetcodeSolutions/tree/master/0134-gas-station) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/IamNamanSingh/LeetcodeSolutions/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [1962-remove-stones-to-minimize-the-total](https://github.com/IamNamanSingh/LeetcodeSolutions/tree/master/1962-remove-stones-to-minimize-the-total) |
 ## Queue
 |  |
 | ------- |
