@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/IamNamanSingh/LeetcodeSolutions/tree/master/0023-merge-k-sorted-lists) |
 | [1019-next-greater-node-in-linked-list](https://github.com/IamNamanSingh/LeetcodeSolutions/tree/master/1019-next-greater-node-in-linked-list) |
 ## Data Stream
 |  |
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/IamNamanSingh/LeetcodeSolutions/tree/master/0023-merge-k-sorted-lists) |
 | [0239-sliding-window-maximum](https://github.com/IamNamanSingh/LeetcodeSolutions/tree/master/0239-sliding-window-maximum) |
 | [0506-relative-ranks](https://github.com/IamNamanSingh/LeetcodeSolutions/tree/master/0506-relative-ranks) |
 | [1776-car-fleet-ii](https://github.com/IamNamanSingh/LeetcodeSolutions/tree/master/1776-car-fleet-ii) |
@@ -229,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/IamNamanSingh/LeetcodeSolutions/tree/master/0023-merge-k-sorted-lists) |
 | [0169-majority-element](https://github.com/IamNamanSingh/LeetcodeSolutions/tree/master/0169-majority-element) |
 ## Counting
 |  |
@@ -256,4 +259,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/IamNamanSingh/LeetcodeSolutions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/IamNamanSingh/LeetcodeSolutions/tree/master/0450-delete-node-in-a-bst) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/IamNamanSingh/LeetcodeSolutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
+## Merge Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/IamNamanSingh/LeetcodeSolutions/tree/master/0023-merge-k-sorted-lists) |
+## Tournament Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/IamNamanSingh/LeetcodeSolutions/tree/master/0023-merge-k-sorted-lists) |
 <!---LeetCode Topics End-->
