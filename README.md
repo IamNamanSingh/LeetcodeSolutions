@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0767-reorganize-string](https://github.com/IamNamanSingh/LeetcodeSolutions/tree/master/0767-reorganize-string) |
 | [1003-check-if-word-is-valid-after-substitutions](https://github.com/IamNamanSingh/LeetcodeSolutions/tree/master/1003-check-if-word-is-valid-after-substitutions) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/IamNamanSingh/LeetcodeSolutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [1405-longest-happy-string](https://github.com/IamNamanSingh/LeetcodeSolutions/tree/master/1405-longest-happy-string) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -123,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0506-relative-ranks](https://github.com/IamNamanSingh/LeetcodeSolutions/tree/master/0506-relative-ranks) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/IamNamanSingh/LeetcodeSolutions/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0767-reorganize-string](https://github.com/IamNamanSingh/LeetcodeSolutions/tree/master/0767-reorganize-string) |
+| [1405-longest-happy-string](https://github.com/IamNamanSingh/LeetcodeSolutions/tree/master/1405-longest-happy-string) |
 | [1776-car-fleet-ii](https://github.com/IamNamanSingh/LeetcodeSolutions/tree/master/1776-car-fleet-ii) |
 | [1962-remove-stones-to-minimize-the-total](https://github.com/IamNamanSingh/LeetcodeSolutions/tree/master/1962-remove-stones-to-minimize-the-total) |
 ## Greedy
@@ -131,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0134-gas-station](https://github.com/IamNamanSingh/LeetcodeSolutions/tree/master/0134-gas-station) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/IamNamanSingh/LeetcodeSolutions/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0767-reorganize-string](https://github.com/IamNamanSingh/LeetcodeSolutions/tree/master/0767-reorganize-string) |
+| [1405-longest-happy-string](https://github.com/IamNamanSingh/LeetcodeSolutions/tree/master/1405-longest-happy-string) |
 | [1962-remove-stones-to-minimize-the-total](https://github.com/IamNamanSingh/LeetcodeSolutions/tree/master/1962-remove-stones-to-minimize-the-total) |
 ## Queue
 |  |
