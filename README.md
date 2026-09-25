@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/IamNamanSingh/LeetcodeSolutions/tree/master/0239-sliding-window-maximum) |
 | [0414-third-maximum-number](https://github.com/IamNamanSingh/LeetcodeSolutions/tree/master/0414-third-maximum-number) |
 | [0506-relative-ranks](https://github.com/IamNamanSingh/LeetcodeSolutions/tree/master/0506-relative-ranks) |
+| [0632-smallest-range-covering-elements-from-k-lists](https://github.com/IamNamanSingh/LeetcodeSolutions/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0724-find-pivot-index](https://github.com/IamNamanSingh/LeetcodeSolutions/tree/master/0724-find-pivot-index) |
 | [0853-car-fleet](https://github.com/IamNamanSingh/LeetcodeSolutions/tree/master/0853-car-fleet) |
 | [1019-next-greater-node-in-linked-list](https://github.com/IamNamanSingh/LeetcodeSolutions/tree/master/1019-next-greater-node-in-linked-list) |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/IamNamanSingh/LeetcodeSolutions/tree/master/0217-contains-duplicate) |
 | [0414-third-maximum-number](https://github.com/IamNamanSingh/LeetcodeSolutions/tree/master/0414-third-maximum-number) |
 | [0506-relative-ranks](https://github.com/IamNamanSingh/LeetcodeSolutions/tree/master/0506-relative-ranks) |
+| [0632-smallest-range-covering-elements-from-k-lists](https://github.com/IamNamanSingh/LeetcodeSolutions/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0853-car-fleet](https://github.com/IamNamanSingh/LeetcodeSolutions/tree/master/0853-car-fleet) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/IamNamanSingh/LeetcodeSolutions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/IamNamanSingh/LeetcodeSolutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
@@ -116,11 +118,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0023-merge-k-sorted-lists](https://github.com/IamNamanSingh/LeetcodeSolutions/tree/master/0023-merge-k-sorted-lists) |
 | [0239-sliding-window-maximum](https://github.com/IamNamanSingh/LeetcodeSolutions/tree/master/0239-sliding-window-maximum) |
 | [0506-relative-ranks](https://github.com/IamNamanSingh/LeetcodeSolutions/tree/master/0506-relative-ranks) |
+| [0632-smallest-range-covering-elements-from-k-lists](https://github.com/IamNamanSingh/LeetcodeSolutions/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [1776-car-fleet-ii](https://github.com/IamNamanSingh/LeetcodeSolutions/tree/master/1776-car-fleet-ii) |
 ## Greedy
 |  |
 | ------- |
 | [0134-gas-station](https://github.com/IamNamanSingh/LeetcodeSolutions/tree/master/0134-gas-station) |
+| [0632-smallest-range-covering-elements-from-k-lists](https://github.com/IamNamanSingh/LeetcodeSolutions/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 ## Queue
 |  |
 | ------- |
@@ -131,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/IamNamanSingh/LeetcodeSolutions/tree/master/0239-sliding-window-maximum) |
+| [0632-smallest-range-covering-elements-from-k-lists](https://github.com/IamNamanSingh/LeetcodeSolutions/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 ## Monotonic Queue
 |  |
 | ------- |
@@ -226,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/IamNamanSingh/LeetcodeSolutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/IamNamanSingh/LeetcodeSolutions/tree/master/0217-contains-duplicate) |
+| [0632-smallest-range-covering-elements-from-k-lists](https://github.com/IamNamanSingh/LeetcodeSolutions/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/IamNamanSingh/LeetcodeSolutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/IamNamanSingh/LeetcodeSolutions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Divide and Conquer
