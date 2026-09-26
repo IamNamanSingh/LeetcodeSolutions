@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/IamNamanSingh/LeetcodeSolutions/tree/master/0014-longest-common-prefix) |
 | [0032-longest-valid-parentheses](https://github.com/IamNamanSingh/LeetcodeSolutions/tree/master/0032-longest-valid-parentheses) |
 | [0071-simplify-path](https://github.com/IamNamanSingh/LeetcodeSolutions/tree/master/0071-simplify-path) |
 | [0394-decode-string](https://github.com/IamNamanSingh/LeetcodeSolutions/tree/master/0394-decode-string) |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/IamNamanSingh/LeetcodeSolutions/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/IamNamanSingh/LeetcodeSolutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/IamNamanSingh/LeetcodeSolutions/tree/master/0027-remove-element) |
 | [0084-largest-rectangle-in-histogram](https://github.com/IamNamanSingh/LeetcodeSolutions/tree/master/0084-largest-rectangle-in-histogram) |
@@ -285,4 +287,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/IamNamanSingh/LeetcodeSolutions/tree/master/0023-merge-k-sorted-lists) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/IamNamanSingh/LeetcodeSolutions/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
