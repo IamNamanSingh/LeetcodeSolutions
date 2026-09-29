@@ -120,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0292-nim-game](https://github.com/IamNamanSingh/LeetcodeSolutions/tree/master/0292-nim-game) |
 | [0441-arranging-coins](https://github.com/IamNamanSingh/LeetcodeSolutions/tree/master/0441-arranging-coins) |
 | [0509-fibonacci-number](https://github.com/IamNamanSingh/LeetcodeSolutions/tree/master/0509-fibonacci-number) |
 | [1776-car-fleet-ii](https://github.com/IamNamanSingh/LeetcodeSolutions/tree/master/1776-car-fleet-ii) |
@@ -301,4 +302,24 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/IamNamanSingh/LeetcodeSolutions/tree/master/0509-fibonacci-number) |
+## Brainteaser
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/IamNamanSingh/LeetcodeSolutions/tree/master/0292-nim-game) |
+## Minimax
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/IamNamanSingh/LeetcodeSolutions/tree/master/0292-nim-game) |
+## Game Theory
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/IamNamanSingh/LeetcodeSolutions/tree/master/0292-nim-game) |
+## Nim Game
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/IamNamanSingh/LeetcodeSolutions/tree/master/0292-nim-game) |
+## Impartial Game
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/IamNamanSingh/LeetcodeSolutions/tree/master/0292-nim-game) |
 <!---LeetCode Topics End-->
