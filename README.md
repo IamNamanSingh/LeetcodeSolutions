@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/IamNamanSingh/LeetcodeSolutions/tree/master/0032-longest-valid-parentheses) |
 | [0085-maximal-rectangle](https://github.com/IamNamanSingh/LeetcodeSolutions/tree/master/0085-maximal-rectangle) |
+| [0322-coin-change](https://github.com/IamNamanSingh/LeetcodeSolutions/tree/master/0322-coin-change) |
 | [0509-fibonacci-number](https://github.com/IamNamanSingh/LeetcodeSolutions/tree/master/0509-fibonacci-number) |
 | [0746-min-cost-climbing-stairs](https://github.com/IamNamanSingh/LeetcodeSolutions/tree/master/0746-min-cost-climbing-stairs) |
 ## Bracket Sequences
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/IamNamanSingh/LeetcodeSolutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/IamNamanSingh/LeetcodeSolutions/tree/master/0217-contains-duplicate) |
 | [0239-sliding-window-maximum](https://github.com/IamNamanSingh/LeetcodeSolutions/tree/master/0239-sliding-window-maximum) |
+| [0322-coin-change](https://github.com/IamNamanSingh/LeetcodeSolutions/tree/master/0322-coin-change) |
 | [0414-third-maximum-number](https://github.com/IamNamanSingh/LeetcodeSolutions/tree/master/0414-third-maximum-number) |
 | [0506-relative-ranks](https://github.com/IamNamanSingh/LeetcodeSolutions/tree/master/0506-relative-ranks) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/IamNamanSingh/LeetcodeSolutions/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
@@ -200,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0101-symmetric-tree](https://github.com/IamNamanSingh/LeetcodeSolutions/tree/master/0101-symmetric-tree) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/IamNamanSingh/LeetcodeSolutions/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/IamNamanSingh/LeetcodeSolutions/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0322-coin-change](https://github.com/IamNamanSingh/LeetcodeSolutions/tree/master/0322-coin-change) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/IamNamanSingh/LeetcodeSolutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/IamNamanSingh/LeetcodeSolutions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Binary Tree
@@ -322,4 +325,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/IamNamanSingh/LeetcodeSolutions/tree/master/0292-nim-game) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/IamNamanSingh/LeetcodeSolutions/tree/master/0322-coin-change) |
+## Complete Knapsack
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/IamNamanSingh/LeetcodeSolutions/tree/master/0322-coin-change) |
 <!---LeetCode Topics End-->
