@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/IamNamanSingh/LeetcodeSolutions/tree/master/0032-longest-valid-parentheses) |
+| [0070-climbing-stairs](https://github.com/IamNamanSingh/LeetcodeSolutions/tree/master/0070-climbing-stairs) |
 | [0085-maximal-rectangle](https://github.com/IamNamanSingh/LeetcodeSolutions/tree/master/0085-maximal-rectangle) |
 | [0322-coin-change](https://github.com/IamNamanSingh/LeetcodeSolutions/tree/master/0322-coin-change) |
 | [0509-fibonacci-number](https://github.com/IamNamanSingh/LeetcodeSolutions/tree/master/0509-fibonacci-number) |
@@ -122,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/IamNamanSingh/LeetcodeSolutions/tree/master/0070-climbing-stairs) |
 | [0292-nim-game](https://github.com/IamNamanSingh/LeetcodeSolutions/tree/master/0292-nim-game) |
 | [0441-arranging-coins](https://github.com/IamNamanSingh/LeetcodeSolutions/tree/master/0441-arranging-coins) |
 | [0509-fibonacci-number](https://github.com/IamNamanSingh/LeetcodeSolutions/tree/master/0509-fibonacci-number) |
@@ -304,6 +306,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/IamNamanSingh/LeetcodeSolutions/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/IamNamanSingh/LeetcodeSolutions/tree/master/0509-fibonacci-number) |
 ## Brainteaser
 |  |
