@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0416-partition-equal-subset-sum](https://github.com/IamNamanSingh/LeetcodeSolutions/tree/master/0416-partition-equal-subset-sum) |
 | [0509-fibonacci-number](https://github.com/IamNamanSingh/LeetcodeSolutions/tree/master/0509-fibonacci-number) |
 | [0746-min-cost-climbing-stairs](https://github.com/IamNamanSingh/LeetcodeSolutions/tree/master/0746-min-cost-climbing-stairs) |
+| [1155-number-of-dice-rolls-with-target-sum](https://github.com/IamNamanSingh/LeetcodeSolutions/tree/master/1155-number-of-dice-rolls-with-target-sum) |
 ## Bracket Sequences
 |  |
 | ------- |
