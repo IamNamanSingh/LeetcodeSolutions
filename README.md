@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0085-maximal-rectangle](https://github.com/IamNamanSingh/LeetcodeSolutions/tree/master/0085-maximal-rectangle) |
 | [0198-house-robber](https://github.com/IamNamanSingh/LeetcodeSolutions/tree/master/0198-house-robber) |
 | [0322-coin-change](https://github.com/IamNamanSingh/LeetcodeSolutions/tree/master/0322-coin-change) |
+| [0416-partition-equal-subset-sum](https://github.com/IamNamanSingh/LeetcodeSolutions/tree/master/0416-partition-equal-subset-sum) |
 | [0509-fibonacci-number](https://github.com/IamNamanSingh/LeetcodeSolutions/tree/master/0509-fibonacci-number) |
 | [0746-min-cost-climbing-stairs](https://github.com/IamNamanSingh/LeetcodeSolutions/tree/master/0746-min-cost-climbing-stairs) |
 ## Bracket Sequences
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/IamNamanSingh/LeetcodeSolutions/tree/master/0239-sliding-window-maximum) |
 | [0322-coin-change](https://github.com/IamNamanSingh/LeetcodeSolutions/tree/master/0322-coin-change) |
 | [0414-third-maximum-number](https://github.com/IamNamanSingh/LeetcodeSolutions/tree/master/0414-third-maximum-number) |
+| [0416-partition-equal-subset-sum](https://github.com/IamNamanSingh/LeetcodeSolutions/tree/master/0416-partition-equal-subset-sum) |
 | [0506-relative-ranks](https://github.com/IamNamanSingh/LeetcodeSolutions/tree/master/0506-relative-ranks) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/IamNamanSingh/LeetcodeSolutions/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0724-find-pivot-index](https://github.com/IamNamanSingh/LeetcodeSolutions/tree/master/0724-find-pivot-index) |
@@ -336,6 +338,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0322-coin-change](https://github.com/IamNamanSingh/LeetcodeSolutions/tree/master/0322-coin-change) |
+| [0416-partition-equal-subset-sum](https://github.com/IamNamanSingh/LeetcodeSolutions/tree/master/0416-partition-equal-subset-sum) |
 ## Complete Knapsack
 |  |
 | ------- |
@@ -344,4 +347,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/IamNamanSingh/LeetcodeSolutions/tree/master/0069-sqrtx) |
+## 0-1 Knapsack
+|  |
+| ------- |
+| [0416-partition-equal-subset-sum](https://github.com/IamNamanSingh/LeetcodeSolutions/tree/master/0416-partition-equal-subset-sum) |
 <!---LeetCode Topics End-->
