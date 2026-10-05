@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/IamNamanSingh/LeetcodeSolutions/tree/master/0014-longest-common-prefix) |
 | [0032-longest-valid-parentheses](https://github.com/IamNamanSingh/LeetcodeSolutions/tree/master/0032-longest-valid-parentheses) |
 | [0071-simplify-path](https://github.com/IamNamanSingh/LeetcodeSolutions/tree/master/0071-simplify-path) |
+| [0392-is-subsequence](https://github.com/IamNamanSingh/LeetcodeSolutions/tree/master/0392-is-subsequence) |
 | [0394-decode-string](https://github.com/IamNamanSingh/LeetcodeSolutions/tree/master/0394-decode-string) |
 | [0709-to-lower-case](https://github.com/IamNamanSingh/LeetcodeSolutions/tree/master/0709-to-lower-case) |
 | [0767-reorganize-string](https://github.com/IamNamanSingh/LeetcodeSolutions/tree/master/0767-reorganize-string) |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/IamNamanSingh/LeetcodeSolutions/tree/master/0198-house-robber) |
 | [0322-coin-change](https://github.com/IamNamanSingh/LeetcodeSolutions/tree/master/0322-coin-change) |
 | [0377-combination-sum-iv](https://github.com/IamNamanSingh/LeetcodeSolutions/tree/master/0377-combination-sum-iv) |
+| [0392-is-subsequence](https://github.com/IamNamanSingh/LeetcodeSolutions/tree/master/0392-is-subsequence) |
 | [0416-partition-equal-subset-sum](https://github.com/IamNamanSingh/LeetcodeSolutions/tree/master/0416-partition-equal-subset-sum) |
 | [0509-fibonacci-number](https://github.com/IamNamanSingh/LeetcodeSolutions/tree/master/0509-fibonacci-number) |
 | [0746-min-cost-climbing-stairs](https://github.com/IamNamanSingh/LeetcodeSolutions/tree/master/0746-min-cost-climbing-stairs) |
@@ -262,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/IamNamanSingh/LeetcodeSolutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/IamNamanSingh/LeetcodeSolutions/tree/master/0027-remove-element) |
+| [0392-is-subsequence](https://github.com/IamNamanSingh/LeetcodeSolutions/tree/master/0392-is-subsequence) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/IamNamanSingh/LeetcodeSolutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/IamNamanSingh/LeetcodeSolutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 ## Hash Table
