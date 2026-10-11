@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0416-partition-equal-subset-sum](https://github.com/IamNamanSingh/LeetcodeSolutions/tree/master/0416-partition-equal-subset-sum) |
 | [0509-fibonacci-number](https://github.com/IamNamanSingh/LeetcodeSolutions/tree/master/0509-fibonacci-number) |
 | [0746-min-cost-climbing-stairs](https://github.com/IamNamanSingh/LeetcodeSolutions/tree/master/0746-min-cost-climbing-stairs) |
+| [0983-minimum-cost-for-tickets](https://github.com/IamNamanSingh/LeetcodeSolutions/tree/master/0983-minimum-cost-for-tickets) |
 | [1155-number-of-dice-rolls-with-target-sum](https://github.com/IamNamanSingh/LeetcodeSolutions/tree/master/1155-number-of-dice-rolls-with-target-sum) |
 ## Bracket Sequences
 |  |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/IamNamanSingh/LeetcodeSolutions/tree/master/0724-find-pivot-index) |
 | [0746-min-cost-climbing-stairs](https://github.com/IamNamanSingh/LeetcodeSolutions/tree/master/0746-min-cost-climbing-stairs) |
 | [0853-car-fleet](https://github.com/IamNamanSingh/LeetcodeSolutions/tree/master/0853-car-fleet) |
+| [0983-minimum-cost-for-tickets](https://github.com/IamNamanSingh/LeetcodeSolutions/tree/master/0983-minimum-cost-for-tickets) |
 | [1019-next-greater-node-in-linked-list](https://github.com/IamNamanSingh/LeetcodeSolutions/tree/master/1019-next-greater-node-in-linked-list) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/IamNamanSingh/LeetcodeSolutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1776-car-fleet-ii](https://github.com/IamNamanSingh/LeetcodeSolutions/tree/master/1776-car-fleet-ii) |
