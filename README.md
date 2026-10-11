@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/IamNamanSingh/LeetcodeSolutions/tree/master/0040-combination-sum-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/IamNamanSingh/LeetcodeSolutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/IamNamanSingh/LeetcodeSolutions/tree/master/0085-maximal-rectangle) |
+| [0088-merge-sorted-array](https://github.com/IamNamanSingh/LeetcodeSolutions/tree/master/0088-merge-sorted-array) |
 | [0134-gas-station](https://github.com/IamNamanSingh/LeetcodeSolutions/tree/master/0134-gas-station) |
 | [0169-majority-element](https://github.com/IamNamanSingh/LeetcodeSolutions/tree/master/0169-majority-element) |
 | [0198-house-robber](https://github.com/IamNamanSingh/LeetcodeSolutions/tree/master/0198-house-robber) |
@@ -129,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/IamNamanSingh/LeetcodeSolutions/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/IamNamanSingh/LeetcodeSolutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/IamNamanSingh/LeetcodeSolutions/tree/master/0217-contains-duplicate) |
 | [0414-third-maximum-number](https://github.com/IamNamanSingh/LeetcodeSolutions/tree/master/0414-third-maximum-number) |
@@ -271,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/IamNamanSingh/LeetcodeSolutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/IamNamanSingh/LeetcodeSolutions/tree/master/0027-remove-element) |
+| [0088-merge-sorted-array](https://github.com/IamNamanSingh/LeetcodeSolutions/tree/master/0088-merge-sorted-array) |
 | [0392-is-subsequence](https://github.com/IamNamanSingh/LeetcodeSolutions/tree/master/0392-is-subsequence) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/IamNamanSingh/LeetcodeSolutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/IamNamanSingh/LeetcodeSolutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
