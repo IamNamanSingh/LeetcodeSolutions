@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0085-maximal-rectangle](https://github.com/IamNamanSingh/LeetcodeSolutions/tree/master/0085-maximal-rectangle) |
 | [0198-house-robber](https://github.com/IamNamanSingh/LeetcodeSolutions/tree/master/0198-house-robber) |
 | [0322-coin-change](https://github.com/IamNamanSingh/LeetcodeSolutions/tree/master/0322-coin-change) |
+| [0375-guess-number-higher-or-lower-ii](https://github.com/IamNamanSingh/LeetcodeSolutions/tree/master/0375-guess-number-higher-or-lower-ii) |
 | [0377-combination-sum-iv](https://github.com/IamNamanSingh/LeetcodeSolutions/tree/master/0377-combination-sum-iv) |
 | [0392-is-subsequence](https://github.com/IamNamanSingh/LeetcodeSolutions/tree/master/0392-is-subsequence) |
 | [0416-partition-equal-subset-sum](https://github.com/IamNamanSingh/LeetcodeSolutions/tree/master/0416-partition-equal-subset-sum) |
@@ -140,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/IamNamanSingh/LeetcodeSolutions/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/IamNamanSingh/LeetcodeSolutions/tree/master/0070-climbing-stairs) |
 | [0292-nim-game](https://github.com/IamNamanSingh/LeetcodeSolutions/tree/master/0292-nim-game) |
+| [0375-guess-number-higher-or-lower-ii](https://github.com/IamNamanSingh/LeetcodeSolutions/tree/master/0375-guess-number-higher-or-lower-ii) |
 | [0441-arranging-coins](https://github.com/IamNamanSingh/LeetcodeSolutions/tree/master/0441-arranging-coins) |
 | [0509-fibonacci-number](https://github.com/IamNamanSingh/LeetcodeSolutions/tree/master/0509-fibonacci-number) |
 | [1776-car-fleet-ii](https://github.com/IamNamanSingh/LeetcodeSolutions/tree/master/1776-car-fleet-ii) |
@@ -337,10 +339,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/IamNamanSingh/LeetcodeSolutions/tree/master/0292-nim-game) |
+| [0375-guess-number-higher-or-lower-ii](https://github.com/IamNamanSingh/LeetcodeSolutions/tree/master/0375-guess-number-higher-or-lower-ii) |
 ## Game Theory
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/IamNamanSingh/LeetcodeSolutions/tree/master/0292-nim-game) |
+| [0375-guess-number-higher-or-lower-ii](https://github.com/IamNamanSingh/LeetcodeSolutions/tree/master/0375-guess-number-higher-or-lower-ii) |
 ## Nim Game
 |  |
 | ------- |
