@@ -121,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/IamNamanSingh/LeetcodeSolutions/tree/master/0231-power-of-two) |
 | [0394-decode-string](https://github.com/IamNamanSingh/LeetcodeSolutions/tree/master/0394-decode-string) |
 | [0509-fibonacci-number](https://github.com/IamNamanSingh/LeetcodeSolutions/tree/master/0509-fibonacci-number) |
 ## Matrix
@@ -146,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0069-sqrtx](https://github.com/IamNamanSingh/LeetcodeSolutions/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/IamNamanSingh/LeetcodeSolutions/tree/master/0070-climbing-stairs) |
+| [0231-power-of-two](https://github.com/IamNamanSingh/LeetcodeSolutions/tree/master/0231-power-of-two) |
 | [0292-nim-game](https://github.com/IamNamanSingh/LeetcodeSolutions/tree/master/0292-nim-game) |
 | [0375-guess-number-higher-or-lower-ii](https://github.com/IamNamanSingh/LeetcodeSolutions/tree/master/0375-guess-number-higher-or-lower-ii) |
 | [0441-arranging-coins](https://github.com/IamNamanSingh/LeetcodeSolutions/tree/master/0441-arranging-coins) |
@@ -384,4 +386,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0374-guess-number-higher-or-lower](https://github.com/IamNamanSingh/LeetcodeSolutions/tree/master/0374-guess-number-higher-or-lower) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/IamNamanSingh/LeetcodeSolutions/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
